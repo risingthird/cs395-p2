@@ -1,0 +1,39 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+version = '0.9'
+sourceCompatibility = '1.7'
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+
+    from {
+      if (System.getenv('FATJAR') == '1') {
+        configurations.compile.collect {
+          it.isDirectory() ? it : zipTree(it)
+        }
+        configurations.runtime.collect {
+          it.isDirectory() ? it : zipTree(it)
+        }
+      }
+    }
+
+    manifest {
+        attributes(
+        "Main-Class": "itkach.slobber.Slobber",
+        "Implementation-Title": "Slobber",
+        "Implementation-Version": version)
+    }
+}
+
+
+dependencies {
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.4.2'
+    compile 'com.fasterxml.jackson.core:jackson-core:2.4.2'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.4.2'
+    compile files('libs/simple-5.1.7.1.itkach.jar')
+    compile project(':slobj')
+ }

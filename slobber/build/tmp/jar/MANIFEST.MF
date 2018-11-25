@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Slobber
+Implementation-Version: 0.9
+Main-Class: itkach.slobber.Slobber
+
