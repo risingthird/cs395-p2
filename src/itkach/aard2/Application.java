@@ -47,6 +47,7 @@ public class Application extends android.app.Application {
 
     BlobDescriptorList                      bookmarks;
     BlobDescriptorList                      history;
+    BlobDescriptorList                      words;
     SlobDescriptorList                      dictionaries;
 
     private static int                      PREFERRED_PORT = 8013;
@@ -136,6 +137,7 @@ public class Application extends android.app.Application {
         dictionaries = new SlobDescriptorList(this, dictStore);
         bookmarks = new BlobDescriptorList(this, bookmarkStore);
         history = new BlobDescriptorList(this, historyStore);
+        words = new BlobDescriptorList(this, historyStore);
 
         dictionaries.registerDataSetObserver(new DataSetObserver() {
             @Override
@@ -163,6 +165,7 @@ public class Application extends android.app.Application {
         lookup(initialQuery, false);
         bookmarks.load();
         history.load();
+        words.loadWord();
     }
 
     static String readTextFile(InputStream is, int maxSize) throws IOException, FileTooBigException {

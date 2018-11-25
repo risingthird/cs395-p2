@@ -1,0 +1,387 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:2:1-634:12
+	package
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:3:5-27
+	android:versionName
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:5:5-31
+		INJECTED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml
+		INJECTED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml
+		INJECTED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:7:5-9:41
+MERGED from [com.shamanland:fonticon:0.1.8] /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/exploded-aar/com.shamanland/fonticon/0.1.8/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:14:22-76
+application
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:16:5-632:19
+MERGED from [com.shamanland:fonticon:0.1.8] /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/exploded-aar/com.shamanland/fonticon/0.1.8/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:19:9-39
+	android:theme
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:21:9-70
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:17:9-36
+activity#itkach.aard2.MainActivity
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:23:9-32:20
+	android:windowSoftInputMode
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:26:13-54
+	android:configChanges
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:25:13-115
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:29:27-74
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:30:17-89
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:30:27-86
+activity#itkach.aard2.ArticleCollectionActivity
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:34:9-55:20
+	android:excludeFromRecents
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:37:13-46
+	android:configChanges
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:36:13-115
+	android:taskAffinity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:35:13-54
+intent-filter#aard2.lookup+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:39:13-43:29
+action#aard2.lookup
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:40:17-55
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:40:25-52
+category#android.intent.category.DEFAULT
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:41:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:42:27-75
+intent-filter#android.intent.category.BROWSABLE+android.intent.category.DEFAULT+colordict.intent.action.SEARCH
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:44:13-48:29
+action#colordict.intent.action.SEARCH
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:45:17-73
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:45:25-70
+intent-filter#android.intent.action.SEND+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:49:13-54:29
+action#android.intent.action.SEND
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:50:25-66
+data
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:53:17-55
+	android:mimeType
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:53:23-52
+activity-alias#ar.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:57:9-75:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:58:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:60:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:59:5-36
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:62:3-73:19
+action#android.intent.action.VIEW
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:63:5-57
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:63:13-54
+activity-alias#ar.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:77:1-95:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:78:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:80:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:79:5-37
+activity-alias#de.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:97:1-115:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:98:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:100:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:99:5-36
+activity-alias#de.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:117:1-135:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:118:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:120:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:119:5-37
+activity-alias#en.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:137:1-155:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:138:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:140:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:139:5-36
+activity-alias#en.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:157:1-175:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:158:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:160:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:159:5-37
+activity-alias#es.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:177:1-195:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:178:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:180:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:179:5-36
+activity-alias#es.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:197:1-215:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:198:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:200:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:199:5-37
+activity-alias#fa.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:217:1-235:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:218:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:220:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:219:5-36
+activity-alias#fa.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:237:1-255:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:238:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:240:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:239:5-37
+activity-alias#fr.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:257:1-275:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:258:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:260:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:259:5-36
+activity-alias#fr.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:277:1-295:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:278:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:280:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:279:5-37
+activity-alias#it.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:297:1-315:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:298:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:300:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:299:5-36
+activity-alias#it.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:317:1-335:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:318:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:320:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:319:5-37
+activity-alias#ja.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:337:1-355:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:338:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:340:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:339:5-36
+activity-alias#ja.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:357:1-375:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:358:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:360:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:359:5-37
+activity-alias#nl.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:377:1-395:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:378:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:380:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:379:5-36
+activity-alias#nl.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:397:1-415:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:398:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:400:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:399:5-37
+activity-alias#pl.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:417:1-435:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:418:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:420:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:419:5-36
+activity-alias#pl.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:437:1-455:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:438:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:440:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:439:5-37
+activity-alias#pt.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:457:1-475:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:458:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:460:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:459:5-36
+activity-alias#pt.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:477:1-495:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:478:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:480:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:479:5-37
+activity-alias#ru.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:497:1-515:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:498:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:500:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:499:5-36
+activity-alias#ru.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:517:1-535:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:518:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:520:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:519:5-37
+activity-alias#uk.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:537:1-555:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:538:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:540:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:539:5-36
+activity-alias#uk.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:557:1-575:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:558:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:560:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:559:5-37
+activity-alias#zh.wikipedia.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:577:1-595:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:578:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:580:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:579:5-36
+activity-alias#zh.wiktionary.org
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:597:1-615:18
+	android:enabled
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:598:5-28
+	android:targetActivity
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:600:5-56
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:599:5-37
+activity#itkach.aard2.FileSelectActivity
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:618:9-622:20
+	android:label
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:621:13-63
+	android:configChanges
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:620:13-115
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:619:13-47
+uses-library#com.sec.android.app.multiwindow
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:624:9-97
+	android:required
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:624:23-47
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:624:48-94
+meta-data#com.sec.android.support.multiwindow
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:626:9-94
+	android:value
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:626:71-91
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:626:20-70
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:627:9-124
+	android:resource
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:627:78-121
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:627:20-77
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:628:9-124
+	android:resource
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:628:78-121
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:628:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:629:9-124
+	android:resource
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:629:78-121
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:629:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
+ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:630:9-124
+	android:resource
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:630:78-121
+	android:name
+		ADDED from /Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/AndroidManifest.xml:630:20-77

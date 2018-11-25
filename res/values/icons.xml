@@ -28,4 +28,5 @@
     <string translatable="false" name="ic_level_up">&#xf148;</string>
     <string translatable="false" name="ic_ban">&#xf05e;</string>
     <string translatable="false" name="ic_fullscreen">&#xf065;</string>
+    <string translatable="false" name="ic_word">&#x270A;</string>
 </resources>

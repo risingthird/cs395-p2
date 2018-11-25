@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/exploded-aar/com.shamanland/fonticon/0.1.8/res/values-ldrtl-v17/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 49,
+                        "endOffset": 213
+                    }
+                }
+            }
+        ]
+    }
+]

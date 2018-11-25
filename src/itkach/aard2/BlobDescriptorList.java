@@ -19,6 +19,7 @@ import java.util.Comparator;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
+import java.util.Random;
 
 import itkach.slob.Slob;
 
@@ -149,6 +150,13 @@ final class BlobDescriptorList extends AbstractList<BlobDescriptor> {
     void load() {
         this.list.addAll(this.store.load(BlobDescriptor.class));
         notifyDataSetChanged();
+    }
+
+    void loadWord() {
+        this.list.addAll(this.store.load(BlobDescriptor.class));
+        this.filteredList.clear();
+        int toGet = new Random().nextInt(list.size());
+        filteredList.add(list.get(toGet));
     }
 
     private void doUpdateLastAccess(BlobDescriptor bd) {

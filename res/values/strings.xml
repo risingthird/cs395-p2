@@ -5,6 +5,7 @@
     <string name="subtitle_lookup">Lookup</string>
     <string name="subtitle_bookmark">Bookmarks</string>
     <string name="subtitle_history">History</string>
+    <string name="subtitle_word">WordOfDay</string>
     <string name="subtitle_dictionaries">Dictionaries</string>
     <string name="action_find_dictionaries">Find Dictionaries</string>
     <string name="action_find_in_page">Find in page</string>
@@ -64,6 +65,7 @@
     <string name="lookup_nothing_found">Nothing found</string>
     <string name="main_empty_bookmarks">No bookmarks</string>
     <string name="main_empty_history">No history</string>
+    <string name="main_empty_word">No Word of Day</string>
     <string name="main_empty_dictionaries">No dictionaries</string>
     <string name="delete">Delete</string>
 

@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_trash.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_trash.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_reload.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_reload.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_text_copyright.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_text_copyright.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_fullscreen.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_tab_bookmark.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_tab_bookmark.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_tab_history.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_tab_history.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_add.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_add.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_tab_settings.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_tab_settings.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_trash.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_trash.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_angle_down.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_angle_down.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_tab_word.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_tab_word.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_empty_view_bookmark.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_empty_view_bookmark.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_star_o.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_star_o.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_tab_search.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_tab_search.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_add.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_add.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_sort_desc.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_sort_desc.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_tab_dictionary.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_tab_dictionary.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_bookmark.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_bookmark.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_text_external_link.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_text_external_link.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_filter.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_filter.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_empty_view_not_available.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_empty_view_not_available.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_list.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_list.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_empty_view_dictionary.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_empty_view_dictionary.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_empty_view_search.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_empty_view_search.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_text_error.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_text_error.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_text_license.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_text_license.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_angle_up.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_angle_up.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_bookmark_o.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_bookmark_o.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_sort_asc.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_sort_asc.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_empty_view_history.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_empty_view_history.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_folder.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_folder.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_clock.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_clock.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_reload.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_reload.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_empty_view_word.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_empty_view_word.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_list_star.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_list_star.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_text_file_archive.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_text_file_archive.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_select_all.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_select_all.xml"
+    },
+    {
+        "merged": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/build/intermediates/res/merged/debug/xml/ic_actionbar_level_up.xml",
+        "source": "/Users/wangjiaping/Desktop/学习/大三/Fall 2018/cs395/aard2/aard2-android/res/xml/ic_actionbar_level_up.xml"
+    }
+]

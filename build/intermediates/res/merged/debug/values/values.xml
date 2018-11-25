@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="layout_direction_rtl">false</bool>
+    <color name="actionbar_icon">@android:color/secondary_text_dark</color>
+    <color name="empty_view_icon">#ffcccccc</color>
+    <color name="list_icon">@android:color/holo_blue_dark</color>
+    <color name="tab_icon">#ff888888</color>
+    <declare-styleable name="CompoundDrawables"><attr format="reference" name="iconLeft"/><attr format="reference" name="iconTop"/><attr format="reference" name="iconRight"/><attr format="reference" name="iconBottom"/><attr format="reference" name="iconStart"/><attr format="reference" name="iconEnd"/></declare-styleable>
+    <declare-styleable name="FontIconDrawable"><attr format="string|reference" name="text"/><attr format="color|reference" name="textColor"/><attr format="dimension|reference" name="textSize"/><attr format="boolean|reference" name="autoMirrored"/><attr format="boolean|reference" name="needMirroring"/></declare-styleable>
+    <declare-styleable name="FontIconView"><attr format="boolean|reference" name="overridePressed"/><attr format="color|reference" name="pressedGlowColor"/><attr format="dimension|reference" name="pressedGlowRadius"/></declare-styleable>
+    <dimen name="actionbar_icon">26dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_defaultsize_h">598.0dip</dimen>
+    <dimen name="app_defaultsize_w">632.0dip</dimen>
+    <dimen name="app_minimumsize_h">598.0dip</dimen>
+    <dimen name="app_minimumsize_w">632.0dip</dimen>
+    <dimen name="empty_view_icon">52dp</dimen>
+    <dimen name="list_icon">26dp</dimen>
+    <dimen name="sort_asc_desc_icon">22dp</dimen>
+    <dimen name="tab_icon">21dp</dimen>
+    <dimen name="text_icon">16dp</dimen>
+    <plurals name="confirm_delete_bookmark_count">
+        <item quantity="zero">%,d bookmarks</item>
+        <item quantity="one">%,d bookmark</item>
+        <item quantity="two">%,d bookmarks</item>
+        <item quantity="few">%,d bookmarks</item>
+        <item quantity="many">%,d bookmarks</item>
+        <item quantity="other">%,d bookmarks</item>
+    </plurals>
+    <plurals name="confirm_delete_history_count">
+        <item quantity="zero">%,d history records</item>
+        <item quantity="one">%,d history record</item>
+        <item quantity="two">%,d history records</item>
+        <item quantity="few">%,d history records</item>
+        <item quantity="many">%,d history records</item>
+        <item quantity="other">%,d history records</item>
+    </plurals>
+    <plurals name="dict_item_count">
+        <item quantity="zero">%,d items</item>
+        <item quantity="one">%,d item</item>
+        <item quantity="two">%,d items</item>
+        <item quantity="few">%,d items</item>
+        <item quantity="many">%,d items</item>
+        <item quantity="other">%,d items</item>
+    </plurals>
+    <string name="action_add_dictionaries">Add</string>
+    <string name="action_ascending">Ascending</string>
+    <string name="action_bookmark_article">Bookmark</string>
+    <string name="action_descending">Descending</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_find_dictionaries">Find Dictionaries</string>
+    <string name="action_find_in_page">Find in page</string>
+    <string name="action_fullscreen">Full Screen</string>
+    <string name="action_goto_parent_dir">Up</string>
+    <string name="action_load_remote_content">Load Remote Content</string>
+    <string name="action_lookup">Lookup</string>
+    <string name="action_reload_directory">Reload</string>
+    <string name="action_select_style">Style...</string>
+    <string name="action_sort_by_time">By Time</string>
+    <string name="action_sort_by_title">By Title</string>
+    <string name="action_zoom_in">Zoom In</string>
+    <string name="action_zoom_out">Zoom Out</string>
+    <string name="action_zoom_reset">Zoom Reset</string>
+    <string name="app_name">Aard 2</string>
+    <string name="application_copyright">2017 Igor Tkach</string>
+    <string name="application_home_url" translatable="false">http://aarddict.org</string>
+    <string name="application_license" translatable="false">
+        
+            &lt;a href="%1$s">%2$s&lt;/a>
+        
+    </string>
+    <string name="application_license_name">GNU General Public License v3</string>
+    <string name="application_license_url">https://gnu.org/licenses/gpl.html</string>
+    <string name="application_version">Version %1$s</string>
+    <string name="article_collection_invalid_link">Invalid link</string>
+    <string name="article_collection_nothing_found">Nothing found</string>
+    <string name="article_collection_nothing_to_lookup">Nothing to look up</string>
+    <string name="article_collection_selected_not_available">Selected article is not available</string>
+    <string name="article_view_msg_not_found">Not found</string>
+    <string name="auto_style_title">Auto</string>
+    <string name="blob_descriptor_confirm_delete">Delete %1$s?</string>
+    <string name="confirm_clear_cached_content">Clear cached content?</string>
+    <string name="default_style_title">Default</string>
+    <string name="delete">Delete</string>
+    <string name="dictionaries_confirm_forget">Forget "%1$s"?</string>
+    <string name="dictionaries_please_wait">Please wait</string>
+    <string name="dictionaries_scanning_device">Scanning device for dictionaries...</string>
+    <string name="ic_add" translatable="false"></string>
+    <string name="ic_angle_down" translatable="false"></string>
+    <string name="ic_angle_up" translatable="false"></string>
+    <string name="ic_ban" translatable="false"></string>
+    <string name="ic_bookmark" translatable="false"></string>
+    <string name="ic_bookmark_o" translatable="false"></string>
+    <string name="ic_clock" translatable="false"></string>
+    <string name="ic_copyright" translatable="false"></string>
+    <string name="ic_dictionary" translatable="false"></string>
+    <string name="ic_error" translatable="false"></string>
+    <string name="ic_external_link" translatable="false"></string>
+    <string name="ic_file_archive" translatable="false"></string>
+    <string name="ic_filter" translatable="false"></string>
+    <string name="ic_folder" translatable="false"></string>
+    <string name="ic_fullscreen" translatable="false"></string>
+    <string name="ic_history" translatable="false"></string>
+    <string name="ic_level_up" translatable="false"></string>
+    <string name="ic_license" translatable="false"></string>
+    <string name="ic_list" translatable="false"></string>
+    <string name="ic_reload" translatable="false"></string>
+    <string name="ic_search" translatable="false"></string>
+    <string name="ic_select_all" translatable="false"></string>
+    <string name="ic_settings" translatable="false"></string>
+    <string name="ic_sort_asc" translatable="false"></string>
+    <string name="ic_sort_desc" translatable="false"></string>
+    <string name="ic_star" translatable="false"></string>
+    <string name="ic_star_o" translatable="false"></string>
+    <string name="ic_trash" translatable="false"></string>
+    <string name="ic_word" translatable="false">✊</string>
+    <string name="lookup_nothing_found">Nothing found</string>
+    <string name="main_empty_bookmarks">No bookmarks</string>
+    <string name="main_empty_dictionaries">No dictionaries</string>
+    <string name="main_empty_history">No history</string>
+    <string name="main_empty_word">No Word of Day</string>
+    <string name="msg_dictionary_added">Added dictionary from %1$s</string>
+    <string name="msg_dictionary_already_open">Already open</string>
+    <string name="msg_failed_to_read_file">Failed to read file</string>
+    <string name="msg_failed_to_store_user_style">Failed to store user style</string>
+    <string name="msg_file_not_css">Doesn\'t appear to be a CSS file</string>
+    <string name="msg_file_too_big">File is too big</string>
+    <string name="msg_no_activity_to_get_content">No activity is available to open file</string>
+    <string name="select_style">Select style</string>
+    <string name="setting_about">About %1$s</string>
+    <string name="setting_clear_cache">Clear Cache</string>
+    <string name="setting_clear_cache_subtitle">Delete cached content including remote images</string>
+    <string name="setting_fav_random_search">Use only favorite dictionaries for random lookup</string>
+    <string name="setting_remote_content">Load Remote Content</string>
+    <string name="setting_remote_content_always">Always</string>
+    <string name="setting_remote_content_never">Never</string>
+    <string name="setting_remote_content_wifi">When on Wi-Fi</string>
+    <string name="setting_ui_theme">User Interface Style</string>
+    <string name="setting_ui_theme_dark">Dark</string>
+    <string name="setting_ui_theme_light">Light</string>
+    <string name="setting_use_volume_for_nav">Use volume buttons for navigation</string>
+    <string name="setting_user_style_confirm_forget">Forget %1$s?</string>
+    <string name="setting_user_styles">User Styles</string>
+    <string name="setting_user_styles_empty">No styles</string>
+    <string name="subtitle_bookmark">Bookmarks</string>
+    <string name="subtitle_dictionaries">Dictionaries</string>
+    <string name="subtitle_history">History</string>
+    <string name="subtitle_lookup">Lookup</string>
+    <string name="subtitle_settings">Settings</string>
+    <string name="subtitle_word">WordOfDay</string>
+    <string name="title_activity_file_select">Select Dictionary File</string>
+</resources>

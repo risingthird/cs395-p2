@@ -21,6 +21,8 @@ import android.widget.SearchView;
 
 import com.shamanland.fonticon.FontIconDrawable;
 
+import java.util.Random;
+
 abstract class BlobDescriptorListFragment extends BaseListFragment {
 
     private Drawable icFilter;
@@ -122,6 +124,13 @@ abstract class BlobDescriptorListFragment extends BaseListFragment {
         boolean sortDir = p.getBoolean(PREF_SORT_DIRECTION, false);
 
         descriptorList.setSort(sortOrder, sortDir);
+
+//        int size = descriptorList.size();
+//
+//        int toChoose = (new Random()).nextInt(size);
+//
+//        BlobDescriptorList temp = new BlobDescriptorList (descriptorList.get(toChoose));
+
 
         listAdapter = new BlobDescriptorListAdapter(descriptorList);
 

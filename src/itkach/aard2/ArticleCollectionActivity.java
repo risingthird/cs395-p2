@@ -90,7 +90,7 @@ public class ArticleCollectionActivity extends FragmentActivity
                             result = createFromLastResult(app);
                         } else if (action.equals("showBookmarks")) {
                             result = createFromBookmarks(app);
-                        } else if (action.equals("showHistory")) {
+                        } else if (action.equals("showHistory") || action.equals("showWordOfDay")) {
                             result = createFromHistory(app);
                         } else {
                             result = createFromIntent(app, intent);
